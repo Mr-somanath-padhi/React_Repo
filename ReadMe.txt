@@ -1,1 +1,1 @@
-PFB general info. about the project.
+PFB general informations about the project.
